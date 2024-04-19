@@ -1,0 +1,16 @@
+com\enzodb\consesionaria\exceptions\NonexistentEntityException.class
+com\enzodb\consesionaria\igu\AltaAutomovil$2.class
+com\enzodb\consesionaria\igu\GraficaPrincipal$1.class
+com\enzodb\consesionaria\igu\GraficaPrincipal.class
+com\enzodb\consesionaria\logica\Automovil.class
+com\enzodb\consesionaria\Consesionaria.class
+com\enzodb\consesionaria\igu\GraficaPrincipal$2.class
+com\enzodb\consesionaria\igu\AltaAutomovil.class
+com\enzodb\consesionaria\persistencia\ControladoraPersistencia.class
+com\enzodb\consesionaria\exceptions\PreexistingEntityException.class
+com\enzodb\consesionaria\persistencia\AutomovilJpaController.class
+com\enzodb\consesionaria\logica\Automovil_.class
+com\enzodb\consesionaria\logica\Controladora.class
+com\enzodb\consesionaria\igu\GraficaPrincipal$3.class
+com\enzodb\consesionaria\exceptions\IllegalOrphanException.class
+com\enzodb\consesionaria\igu\AltaAutomovil$1.class
